@@ -1,0 +1,3 @@
+Circle,Ring Id,Node Name,Type Group, Loopback Ip
+KEL,Ring1,HAB_TNGWB_SUR_P_C65996,PN10x,10.10.01.01
+KEL,Ring1,APO_BCLWB_NSA_P_C66006,PN6x,10.12.10.11

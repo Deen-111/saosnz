@@ -1,0 +1,27 @@
+
+# Maven build files
+target/
+
+# Java compiled files
+*.class
+
+# Packaged files
+*.war
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node dependencies
+node_modules/
+
+# React build files
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

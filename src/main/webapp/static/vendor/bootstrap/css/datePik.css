@@ -1,0 +1,9 @@
+.pikDate{
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 100px;
+}
+.txtPick{
+	width:150%;
+}
